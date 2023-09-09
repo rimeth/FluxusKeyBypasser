@@ -3,8 +3,8 @@
 ## Build Notes
 **No build notes this was made for personal usage, to help me learn more about the shitty C# language, and for shitposting on all the key bypassers out there**
 ## Tutorial
-- Download Microsoft.NET at (here)[https://dotnet.microsoft.com/en-us/download]
-- .NET 6.0 (version)[https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.413-windows-x64-installer]
+- Download Microsoft.NET at [here](https://dotnet.microsoft.com/en-us/download)
+- .NET 6.0 [version](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.413-windows-x64-installer)
 - Run the rat 👍
 
 ## Conclusion 
