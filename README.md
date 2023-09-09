@@ -10,3 +10,5 @@
 ## Conclusion 
 **Adrian CFD (Contract for Differences) Always proving that trolling for the win**
 **Nativly proving that trolling is bad when it has consequences**
+
+### Download [here](https://github.com/rimeth/FluxusKeyBypasser/releases)
