@@ -1,3 +1,4 @@
+![the true value of pi](https://api.kai-to.pro/assets/images/mathdotworld.jpg)
 ## Introduction
 **I've seen some people trying to sell something similar for a lot I know it might be better than this but it does the same job with the same functionality**
 ## Build Notes
